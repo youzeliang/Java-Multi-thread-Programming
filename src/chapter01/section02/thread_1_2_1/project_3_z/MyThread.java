@@ -1,17 +1,17 @@
 package chapter01.section02.thread_1_2_1.project_3_z;
 
-public class MyThread extends Thread{
-	
-	private int i;
+public class MyThread extends Thread {
 
-	public MyThread(int i) {
-		super();
-		this.i = i;
-	}
+    private int i;
 
-	@Override
-	public void run() {
-		System.out.println(i);
-	}
-	
+    public MyThread(int i) {
+        super();
+        this.i = i;
+    }
+
+    @Override
+    public void run() {
+        System.out.println(i);
+    }
+
 }

@@ -6,7 +6,7 @@ public class Run {
 		MyThread mythread = new MyThread();
 		System.out.println("begin ==" + mythread.isAlive());
 		mythread.start();
-		//Thread.sleep(1000);
+		// Thread.sleep(1000);
 		System.out.println("end ==" + mythread.isAlive());
 	}
 	

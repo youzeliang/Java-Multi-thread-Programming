@@ -8,7 +8,7 @@ public class Run {
 			Thread.sleep(2000);
 			thread.interrupt();
 		} catch (InterruptedException e) {
-			System.out.println("main catch");
+			System.out.println(" main catch");
 			e.printStackTrace();
 		}
 	}
