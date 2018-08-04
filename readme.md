@@ -22,4 +22,4 @@ Reference to [here](https://github.com/loveincode/Java-Multi-thread-Programming)
 
 线程池
 
-idea,golong,pychon,pycharm,java10,redis,mongo,ss,有道云笔记，网易云，微信，百度网盘，potplayer，postman，navicat，迅雷，git，editplus，office，搜狗拼音
+mongo,网易云，，potplayer，postman，navicat，迅雷，editplus，office
