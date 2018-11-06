@@ -15,11 +15,3 @@ Reference to [here](https://github.com/loveincode/Java-Multi-thread-Programming)
 ### section    section_X    
 ### thread  thread_X_Y_Z 
 ### project  project_X_Y   
-
-
-思考，
-既然代码的运行结果和代码的执行顺序或调用顺序是无关的，那么如何按照特定的顺序执行
-
-线程池
-
-mongo,网易云，，potplayer，postman，navicat，迅雷，editplus，office
